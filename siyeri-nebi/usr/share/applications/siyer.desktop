@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Siyer-i Nebi
+Exec=python3 /opt/siyer/siyer.py
+Icon=siyer-icon
+Type=Application
+Categories=Education;
+Terminal=false
+Comment=Kronolojik Siyer-i Nebi Rehberi

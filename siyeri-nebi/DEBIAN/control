@@ -1,0 +1,10 @@
+Package: siyer
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: mobilturka
+Depends: python3, python3-pyqt6
+Description: Kronolojik Siyer-i Nebi Uygulamasi
+ Mobilturka tarafindan hazirlanan, Efendimiz'in hayatini
+ kronolojik olarak sunan görsel rehber.
